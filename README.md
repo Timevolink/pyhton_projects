@@ -1,2 +1,2 @@
-# pyhton_projects
-Rassemblement de tous mes projets pythons
+# circle_simulation
+Un affichage avec des cercles et des collisions que j'ai codé en python
